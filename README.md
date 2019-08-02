@@ -1,2 +1,2 @@
-# Roket-Genel-Tasar-m-Kodlar-
+# Roket-Genel-Tasarim-Kodlar-
 Roketin genel tasarim ve atis hazirlik kodlari.
